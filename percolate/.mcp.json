@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "percolate": {
+      "type": "http",
+      "url": "https://mcp.percolateapp.com/mcp"
+    }
+  }
+}

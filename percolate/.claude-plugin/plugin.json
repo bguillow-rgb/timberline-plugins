@@ -1,0 +1,26 @@
+{
+  "name": "percolate",
+  "displayName": "Percolate",
+  "version": "1.0.0",
+  "description": "Look up 1,100+ specialty coffees: tasting profiles, similar coffees, comparisons, brew recipes and picks by flavor, roast, budget and brew gear.",
+  "author": {
+    "name": "Timberline Ventures LLC",
+    "email": "support@percolateapp.com",
+    "url": "https://timberlineventuresllc.com"
+  },
+  "homepage": "https://percolateapp.com/mcp",
+  "repository": "https://github.com/bguillow-rgb/timberline-plugins",
+  "license": "MIT",
+  "keywords": [
+    "coffee",
+    "specialty-coffee",
+    "espresso",
+    "brewing",
+    "recommendations"
+  ],
+  "icon": "./logo.png",
+  "documentationUrl": "https://percolateapp.com/mcp",
+  "supportUrl": "https://percolateapp.com/support",
+  "privacyPolicyUrl": "https://percolateapp.com/privacy",
+  "termsOfServiceUrl": "https://percolateapp.com/terms"
+}

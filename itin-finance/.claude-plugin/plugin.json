@@ -1,0 +1,26 @@
+{
+  "name": "itin-finance",
+  "displayName": "ITIN Finance",
+  "version": "1.0.0",
+  "description": "Answers for people with an ITIN instead of an SSN: loans, mortgages, credit cards and credit scores, plus a verified directory of institutions that accept ITIN applicants. English and Spanish.",
+  "author": {
+    "name": "Timberline Ventures LLC",
+    "email": "info@timberlineventuresllc.com",
+    "url": "https://timberlineventuresllc.com"
+  },
+  "homepage": "https://itinlending.net/mcp",
+  "repository": "https://github.com/bguillow-rgb/timberline-plugins",
+  "license": "MIT",
+  "keywords": [
+    "itin",
+    "credit",
+    "loans",
+    "mortgages",
+    "spanish"
+  ],
+  "icon": "./logo.png",
+  "documentationUrl": "https://itinlending.net/mcp",
+  "supportUrl": "https://itinlending.net/contact",
+  "privacyPolicyUrl": "https://itinlending.net/privacy",
+  "termsOfServiceUrl": "https://itinlending.net/terms"
+}

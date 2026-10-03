@@ -1,0 +1,33 @@
+{
+  "name": "timberline",
+  "owner": {
+    "name": "Timberline Ventures LLC",
+    "email": "info@timberlineventuresllc.com"
+  },
+  "metadata": {
+    "description": "Read-only Claude plugins for Pour Picks, Perfume Picks, Percolate and the ITIN finance network.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "pour-picks",
+      "source": "./pour-picks",
+      "description": "Look up 4,700+ bourbons, ryes, scotches and other spirits: tasting profiles, similar bottles, cheaper alternatives, comparisons and picks by flavor and budget."
+    },
+    {
+      "name": "perfume-picks",
+      "source": "./perfume-picks",
+      "description": "Look up 13,000+ fragrances: note pyramids, accords, curated dupes, similar scents, comparisons and picks by notes, budget and occasion."
+    },
+    {
+      "name": "percolate",
+      "source": "./percolate",
+      "description": "Look up 1,100+ specialty coffees: tasting profiles, similar coffees, comparisons, brew recipes and picks by flavor, roast, budget and brew gear."
+    },
+    {
+      "name": "itin-finance",
+      "source": "./itin-finance",
+      "description": "Answers for people with an ITIN instead of an SSN: loans, mortgages, credit cards and credit scores, plus a verified directory of institutions that accept ITIN applicants. English and Spanish."
+    }
+  ]
+}

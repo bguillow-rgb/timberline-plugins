@@ -1,0 +1,26 @@
+{
+  "name": "pour-picks",
+  "displayName": "Pour Picks",
+  "version": "1.0.0",
+  "description": "Look up 4,700+ bourbons, ryes, scotches and other spirits: tasting profiles, similar bottles, cheaper alternatives, comparisons and picks by flavor and budget.",
+  "author": {
+    "name": "Timberline Ventures LLC",
+    "email": "support@pourpicks.app",
+    "url": "https://timberlineventuresllc.com"
+  },
+  "homepage": "https://pourpicks.app/mcp",
+  "repository": "https://github.com/bguillow-rgb/timberline-plugins",
+  "license": "MIT",
+  "keywords": [
+    "whiskey",
+    "bourbon",
+    "spirits",
+    "recommendations",
+    "tasting-notes"
+  ],
+  "icon": "./logo.png",
+  "documentationUrl": "https://pourpicks.app/mcp",
+  "supportUrl": "https://pourpicks.app/support",
+  "privacyPolicyUrl": "https://pourpicks.app/privacy",
+  "termsOfServiceUrl": "https://pourpicks.app/terms"
+}

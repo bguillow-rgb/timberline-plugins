@@ -1,0 +1,26 @@
+{
+  "name": "perfume-picks",
+  "displayName": "Perfume Picks",
+  "version": "1.0.0",
+  "description": "Look up 13,000+ fragrances: note pyramids, accords, curated dupes, similar scents, comparisons and picks by notes, budget and occasion.",
+  "author": {
+    "name": "Timberline Ventures LLC",
+    "email": "support@perfumepicks.app",
+    "url": "https://timberlineventuresllc.com"
+  },
+  "homepage": "https://perfumepicks.app/mcp",
+  "repository": "https://github.com/bguillow-rgb/timberline-plugins",
+  "license": "MIT",
+  "keywords": [
+    "fragrance",
+    "perfume",
+    "cologne",
+    "dupes",
+    "recommendations"
+  ],
+  "icon": "./logo.png",
+  "documentationUrl": "https://perfumepicks.app/mcp",
+  "supportUrl": "https://perfumepicks.app/support",
+  "privacyPolicyUrl": "https://perfumepicks.app/privacy",
+  "termsOfServiceUrl": "https://perfumepicks.app/terms"
+}
