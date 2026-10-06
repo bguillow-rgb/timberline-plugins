@@ -49,9 +49,9 @@ APPS = {
        "Add Eagle Rare to my Pour Picks cellar."),
     ]),
   "perfume-picks": dict(
-    version="1.0.2", display="Perfume Picks", short="Fragrance dupes and picks",
+    version="1.0.3", display="Perfume Picks", short="Fragrance dupes and picks",
     email="support@perfumepicks.app", site="https://perfumepicks.app", support="https://perfumepicks.app/support",
-    mcp="https://mcp.perfumepicks.app/mcp", category="Lifestyle", colors=("#5B2A86", "#C9A0F0"),
+    mcp="https://mcp.perfumepicks.app/mcp", category="Education & Research", colors=("#5B2A86", "#C9A0F0"),
     demo="https://perfumepicks.app/perfume-picks-demo.mp4", skill="fragrance-picks",
     keywords=["perfume", "fragrance", "cologne", "dupes", "recommendations"],
     caps=["Search fragrances", "Find dupes", "Compare fragrances", "Recommendations"],
@@ -84,9 +84,9 @@ APPS = {
        "Show me the fragrances in my Perfume Picks wardrobe."),
     ]),
   "percolate": dict(
-    version="1.0.0", display="Percolate", short="Specialty coffee picks",
+    version="1.0.1", display="Percolate", short="Specialty coffee picks",
     email="support@percolateapp.com", site="https://www.percolateapp.com", support="https://www.percolateapp.com/support",
-    mcp="https://mcp.percolateapp.com/mcp", category="Lifestyle", colors=("#4B3621", "#D2A679"),
+    mcp="https://mcp.percolateapp.com/mcp", category="Education & Research", colors=("#4B3621", "#D2A679"),
     demo="https://www.percolateapp.com/percolate-demo.mp4", skill="coffee-picks",
     keywords=["coffee", "specialty coffee", "espresso", "brewing", "recommendations"],
     caps=["Search coffees", "Find similar coffees", "Brew recipes", "Recommendations"],
